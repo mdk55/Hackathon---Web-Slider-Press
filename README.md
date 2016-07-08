@@ -1,13 +1,17 @@
 Draggable Dual-View Slideshow
 =========
 
-A draggable slideshow with two views: fullscreen and small carousel. In fullscreen view, a related content area can be viewed.
+A draggable slideshow with two views: fullscreen and small carousel. In fullscreen view, a related content area can be viewed. Great for Hackathon presentations. 
+
 
 [Article on Codrops](http://tympanus.net/codrops/?p=19332)
 
 [Demo](http://tympanus.net/Development/DraggableDualViewSlideshow/)
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
+
+** Note this distribution is for backup purposes **
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
